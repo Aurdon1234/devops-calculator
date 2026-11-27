@@ -21,4 +21,4 @@ Type `q` to quit.
 - Safe division (dividing by zero shows an error instead of crashing)
 - Text menu that keeps running until you quit
 - Power operation (raise a number to an exponent)
-
+- Modulo operation (remainder after division)
