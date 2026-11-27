@@ -18,6 +18,8 @@ def divide(a, b):
         return "Error: cannot divide by zero"
     return a / b
 
+def power(a, b):
+    return a ** b
 
 # Menu options: key -> (label, function)
 OPERATIONS = {
@@ -25,6 +27,7 @@ OPERATIONS = {
     "2": ("Subtract", subtract),
     "3": ("Multiply", multiply),
     "4": ("Divide", divide),
+    "5": ("Power", power),
 }
 
 

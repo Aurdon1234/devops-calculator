@@ -20,4 +20,5 @@ Type `q` to quit.
 - Addition, subtraction, multiplication and division
 - Safe division (dividing by zero shows an error instead of crashing)
 - Text menu that keeps running until you quit
-- More operations: coming soon
+- Power operation (raise a number to an exponent)
+
