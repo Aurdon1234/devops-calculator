@@ -18,6 +18,10 @@ def divide(a, b):
         return "Error: cannot divide by zero"
     return a / b
 
+def modulo(a, b):
+    if b == 0:
+        return "Error: cannot divide by zero"
+    return a % b
 
 # Menu options: key -> (label, function)
 OPERATIONS = {
@@ -25,6 +29,7 @@ OPERATIONS = {
     "2": ("Subtract", subtract),
     "3": ("Multiply", multiply),
     "4": ("Divide", divide),
+    "5": ("Modulo", modulo),
 }
 
 
