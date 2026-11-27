@@ -2,6 +2,7 @@
 
 A simple command-line calculator written in Python. It was built to practise
 a Git and GitHub workflow: branching, pushing, pulling, and resolving merge conflicts.
+This project was created for a DevOps assignment.
 
 ## How to run
 
